@@ -1,1 +1,1 @@
-# trainee--BRAINNEST
+# rock-paper-scissor GAME
